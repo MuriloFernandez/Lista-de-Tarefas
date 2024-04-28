@@ -1,4 +1,4 @@
-<h1>Projeto simples de Lista de Tarefas (HTML, CSS, Java Script).<h1>
+<h1>Projeto simples de Lista de Tarefas (HTML, CSS, Java Script).</h1>
 
 <p>Projeto onde pode salvar tarefas, digitando no campo e clicando no botão adicionar.</p>
 
